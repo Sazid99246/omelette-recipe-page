@@ -18,8 +18,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Sazid99246/frontend-mentor-recipe-page)
-- Live Site URL: [Recipe Page](https://superb-cendol-9250c6.netlify.app/)
+- Solution URL: [Github](https://github.com/Sazid99246/omelette-recipe-page)
+- Live Site URL: [Recipe Page](https://sazid99246.github.io/omelette-recipe-page/)
 
 ## Author
 
